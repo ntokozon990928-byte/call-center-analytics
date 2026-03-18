@@ -1,4 +1,6 @@
 # Call Center Performance & PCP Risk Analysis
+## Business Problem
+Identify underperforming agents early to improve performance and reduce operational risk.
 
 ## Overview
 This project analyzes call center agent performance and predicts the likelihood of agents being placed on a Performance Improvement Plan (PCP).
