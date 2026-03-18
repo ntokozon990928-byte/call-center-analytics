@@ -21,4 +21,4 @@ See dashboard screenshot in /images folder
 
 ## Dashboard Preview
 
-![images](images/dashboard.png)
+![Dashboard](call-center-analytics/images/dashboard.png)
