@@ -21,4 +21,4 @@ See dashboard screenshot in /images folder
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard_screenshot.png)
+![Dashboard](images/dashboard.png)
