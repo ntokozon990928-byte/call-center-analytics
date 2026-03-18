@@ -18,3 +18,7 @@ This project analyzes call center agent performance and predicts the likelihood 
 
 ## Dashboard
 See dashboard screenshot in /images folder
+
+## Dashboard Preview
+
+![Dashboard](images/dashboard_screenshot.png)
